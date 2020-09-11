@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38acff</color>
+    <color name="colorPrimaryDark">#2d9ae7</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color> <!-- transparent -->
+    <color name="white">#FFFFFF</color><!--White -->
+    <color name="yellow">#FFFF00</color><!--yellow -->
+    <color name="orange">#FFA500</color><!--orange -->
+    <color name="magenta">#FF00FF</color><!--magenta -->
+    <color name="red">#FF0000</color><!--red -->
+    <color name="linen">#FAF0E6</color><!--linen -->
+    <color name="salmon">#FA8072</color><!--salmon -->
+    <color name="ghost_white">#F8F8FF</color><!--ghost_white -->
+    <color name="beige">#F5F5DC</color><!--beige -->
+    <color name="light_gray">#D3D3D3</color><!--light_gray -->
+    <color name="chocolate">#D2691E</color><!--chocolate -->
+    <color name="silver">#C0C0C0</color><!--silver -->
+    <color name="gray">#808080</color><!--gray -->
+    <color name="blue">#0000FF</color><!--blue -->
+    <color name="black">#000000</color><!--black -->
+
+    <color name="color_click_white">#e5e5e5</color>
+    <color name="color_divider">#d9d9d9</color>
+</resources>
